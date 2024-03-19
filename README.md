@@ -1,7 +1,7 @@
 👋Hi, I'm Tridisha Bharadwaj
 ==========================================================================================================================================
 
-An Economist in making from India
+A passionate Trade & Dev Econ enthusiast from India
 ---------------------------------
 
 I am currently pursuing my master's in International Economics at the Geneva Graduate Institute.
