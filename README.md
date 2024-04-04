@@ -14,10 +14,7 @@ I am currently pursuing my master's in International Economics at the Geneva Gra
 
 ### Skills
 
-*STATA
-*R 
-*Python 
-*Latex
+STATA/ R/ Python/ Latex
 
 ### Socials
 
