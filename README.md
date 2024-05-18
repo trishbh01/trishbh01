@@ -8,7 +8,7 @@ I am currently pursuing my master's in International Economics at the Geneva Gra
 
 * 🌍  I'm based in Geneva, Switzerland
 * 🔭 I’m currently working on my master's thesis
-* 🖥️  To know more about my experiences- [ResumeLink](https://drive.google.com/file/d/1s-K1KtaiIC3aS--Va8PDnZts-I6Kj_El/view?usp=sharing)
+* 🖥️  To know more about my experiences- [ResumeLink](https://drive.google.com/file/d/1rjvL8t29vlISRy10wDpZ4GVnFUd1fkvC/view?usp=sharing)
 * ✉️  You can contact me at [tridishabharadwaj1@gmail.com](mailto:tridishabharadwaj1@gmail.com)
 * 🧠  I'm learning GIS
 
