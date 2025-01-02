@@ -4,12 +4,14 @@
 A passionate Dev Econ enthusiast from India :grinning:
 ---------------------------------
 
-I am currently pursuing my master's in International Economics at the Geneva Graduate Institute. My thesis is based on investigating the effects of night shift deregulation on female labour market outcomes in India.
+Economist with a creative streak! Currently working at the International Labour Organization, I dive into labour market research with a focus on living wages and income. I’ve worked on multiple projects at the International Trade Centre and NITI Aayog, tackling everything from economic data analysis to strategy development.
+
+I hold a Master’s in International Economics from the Geneva Graduate Institute, where my thesis focused on how discriminatory labour laws impact female labour employment and wages. Beyond the numbers, you’ll probably find me with a paintbrush in hand, singing karaoke, or enjoying some good old R&B.
 
 * 🌍 I'm based in Geneva, Switzerland
-* 🔭 I'm currently on the lookout for opportunities around econ research and policy
+* 🔭 Always on the lookout for opportunities around econ research and policy
 * ✉️ You can contact me at [tridisha.bharadwaj@graduateinstitute.ch](mailto:tridisha.bharadwaj@graduateinstitute.ch)
-* 🧠 I'm improving on spatial and text analysis
+* 🧠 I'm improving my skills on spatial and text analysis
 
 ### Skills
 
